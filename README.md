@@ -70,5 +70,3 @@ Models were evaluated using:
 The models successfully classified loan approval status and provided reasonable accuracy. Logistic Regression performed well for this binary classification problem.
 
 ---
-
-## 📂 Project Structure
