@@ -1,4 +1,4 @@
-# Credit Risk Prediction using Machine Learning
+# Loan Prediction using Machine Learning
 
 ## 📌 Objective
 The objective of this project is to predict whether a loan applicant is likely to default on a loan based on their personal, financial, and loan-related information.
